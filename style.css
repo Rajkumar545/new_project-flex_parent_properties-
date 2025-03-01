@@ -1,0 +1,192 @@
+html,body{
+    margin-right:2%;
+    margin-bottom: 4%;
+    margin-top:2%;
+    margin-left:2%
+}
+.container{
+    display: flex;
+    
+    gap:20px 20px;
+    
+
+}
+.container1{
+    display:flex;
+    gap:20px 20px;
+    margin-top:3%
+}
+.child1{
+    display:flex;
+    gap:5%;
+    
+}
+.child1d{
+    display: flex;
+    justify-content: space-between;
+}
+.child1a {
+    width:50%;
+   
+}
+.child1a img{
+    width:100%;
+    margin-top:10%;
+    margin-left:4%;
+}
+.child1e a{
+    text-decoration: none;
+    color: black;
+}
+.parent1{
+    width:45%;
+    border:1px solid black;
+    padding-right:2%;
+    padding-left:2%;
+} 
+
+
+.child2{
+    display:flex;
+    gap:5%;
+}
+.child2d{
+    display: flex;
+    justify-content: space-between;
+}
+.parent2{
+    width:45%;
+    border:1px solid black;
+    padding-right:2%;
+    padding-left:2%;
+}
+.child2a {
+    width:50%;
+   
+}
+.child2a img{
+    width:100%;
+    margin-top:10%;
+    margin-left:4%;
+}
+.child2e a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.parent3{
+    width:45%;
+    border:1px solid black;
+    padding-right:2%;
+    padding-left:2%;
+}
+.child3{
+    display:flex;
+    gap:5%;
+}
+.child3d{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child3a {
+    width:50%;
+   
+}
+.child3a img{
+    width:100%;
+    margin-top:10%;
+    margin-left:4%;
+}
+.child3e a{
+    text-decoration: none;
+    color: black;
+}
+
+.parent4{
+    width:45%;
+    border:1px solid black;
+    padding-right:2%;
+    padding-left:2%;
+}
+.child4{
+    display:flex;
+    gap:5%;
+}
+.child4d{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child4a {
+    width:50%;
+   
+}
+.child4a img{
+    width:100%;
+    margin-top:10%;
+    margin-left:4%;
+}
+.child4e a{
+    text-decoration: none;
+    color: black;
+}
+
+.parent5{
+    width:45%;
+    border:1px solid black;
+    padding-right:2%;
+    padding-left:2%;
+}
+.child5{
+    display:flex;
+    gap:5%;
+}
+.child5d{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child5a {
+    width:50%;
+   
+}
+.child5a img{
+    width:100%;
+    margin-top:10%;
+    margin-left:4%;
+}
+.child5e a{
+    text-decoration: none;
+    color: black;
+}
+
+.parent6{
+    width:45%;
+    border:1px solid black;
+    padding-right:2%;
+    padding-left:2%;
+}
+.child6{
+    display:flex;
+    gap:5%;
+}
+.child6d{
+    display: flex;
+    justify-content: space-between;
+}
+
+.child6a {
+    width:50%;
+   
+}
+.child6a img{
+    width:100%;
+    margin-top:10%;
+    margin-left:4%;
+}
+.child6e a{
+    text-decoration: none;
+    color: black;
+}
